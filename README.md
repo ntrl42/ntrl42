@@ -1,4 +1,4 @@
-[![Header](https://github.com/ntrl42/ntrl42/blob/main/assets/42.png)](https://21-school.ru/)
+[![Header](https://github.com/ntrl42/ntrl42/blob/main/assets/214.png)](https://21-school.ru/)
 
 About me
 
