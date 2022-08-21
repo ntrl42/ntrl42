@@ -1,5 +1,4 @@
 [![Header](https://github.com/ntrl42/ntrl42/blob/main/assets/214.png)](https://21-school.ru/)
-![Haskell](https://img.shields.io/badge/Haskell-090909?style=for-the-badge&logo=haskell&logoColor=47C5FB)
 
 
 ### **About me** ###
@@ -18,18 +17,10 @@ ___
 ___
 ### **Project** ###
 
-| Name          | Description   | Tools |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 kbkbhbhjbjbjhbjhbhbhbhbhbbhbhbhbhbhbb|
-| col 2 is      | centered   jnjknjn
-ljnjnkjjknn     |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Name            | Description   | Tools |
+| --------------- |:-------------:| -----:|
+| TelegramBot     | 22      | 7    |
+| Server (Haskell)| 42      |   2  |
+| Obsidian App    | 11      |   2  |
 
-
-
-```
-fdljfdlkljfdlkjljdjld
-kfdmklmkmdfkmkmdfkmvkdfm
-```
-mhbhjbhb
 
